@@ -30,8 +30,7 @@ Este projeto é um site de apresentação de um produto de patins chamado **Snit
 
 - **HTML5** – Estrutura da página
 - **CSS3** – Estilo, layout e animações
-- **JavaScript Vanilla (opcional)** – Para interações dinâmicas
-
+  
 ---
 
 ## 📸 Créditos
